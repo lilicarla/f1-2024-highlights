@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# environment variables
+venv/
+.env/
+.env
+
+# credentials (google cloud)
+credentials.json
+
+# data
+data/raw/*
+data/processed/*
